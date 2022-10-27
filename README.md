@@ -1,4 +1,5 @@
 # _Spring Boot CRUD Web Application_
+_Create, read, update and delete **Users** in a relational database_
 
 ## Tools:
 - Java 11
